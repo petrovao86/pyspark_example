@@ -17,6 +17,7 @@ def run():
         [
             (1, "Category_1"),
             (2, "Category_2"),
+            (3, "Category_3"),
         ],
         ("id", "name"),
     )
